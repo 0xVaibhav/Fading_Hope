@@ -11,4 +11,4 @@
 ######  Person of contact in case there are any questions - Vaibhav Gupta (Email - vaibhav0240gupta@gmail.com )
 ######  Discord ID - VaibhaV_2416#2694
 ######  UnstoppableDomain registered account email address - guptavaibhav0240@gmail.com
-###### Code where UnstoppableDomain is used - https://github.com/0xVaibhav/FadingHope/blob/main/workingfrontend/src/components/UDomain.js
+###### Code where UnstoppableDomain is used - [https://github.com/0xVaibhav/FadingHope/blob/main/workingfrontend/src/components/UDomain.js](https://github.com/0xVaibhav/Fading_Hope/blob/main/workingfrontend/src/components/UDomain.js)
